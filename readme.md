@@ -9,7 +9,7 @@ https://en.wiktionary.org/wiki/Appendix:Romance_Swadesh_lists
 
 Swadesh lists are word lists of body parts, verbs, natural phenomena, in order to compute the relationships of languages. Romance languages are a group of languages that evolved from Vulgar Latin, the common language spoken by the Romans. From this list, we picked up pairs of corresponding words from different languages. We chose Vulgar Latin and Italian because the latter is considered to be closest to the former among the other Romance languages.
 
-![romance](https://en.wikipedia.org/wiki/File:Romance_languages_improved.PNG)
+![image](https://user-images.githubusercontent.com/7886660/230810783-59e59363-f262-42ec-9123-6c5eb058cc86.png)
 
 I searched for cognate words from the Swadesh list, but for words that were clearly not cognates, I checked their etymology on Wiktionary. Since the Vulgar Latin words on the Swadesh list included those with different grammatical cases, I sometimes got confused along the way, but I tried to match them as closely as possible.
 
