@@ -62,3 +62,8 @@ For 4 out of 10 words, the prediction was correct.
 # Conclusion
 
 A NLP model was built to convert Vulgar Latin words to an Italian counterparts. For 4 out of 10 words, the prediction was correct.
+
+# Acknowledgement
+
+The basic idea is from this Twitter thread.  
+https://twitter.com/cicada3301_kig/status/1510938086099894281
