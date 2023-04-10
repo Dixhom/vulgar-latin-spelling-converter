@@ -27,6 +27,9 @@ Below are example records. The number of records is 803.
 
 # Training
 
+The code of transformer was taken from below and modified:  
+https://www.tensorflow.org/text/tutorials/transformer?hl=en
+
 ## Parameters
 
 - BATCH_SIZE = 64
